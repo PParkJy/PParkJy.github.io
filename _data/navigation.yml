@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Programming
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -13,7 +13,7 @@ header:
       zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
+      ko      : &KO       프로그래밍
       ko-KR   : *KO
       fr      : &FR       Archives
       fr-BE   : *FR
@@ -48,3 +48,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+- titles:
+     ko : &KO 공부
+        en : &EN Study
+        url : /study.html
