@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-아 뭐라 써야하나
+![Image](./assets/images/jiyeon.jpg){:.circle.shadow}
