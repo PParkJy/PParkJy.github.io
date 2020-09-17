@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-![Image](./assets/images/jiyeon.jpg){:.circle.shadow}
+![Image](./assets/images/jiyeon.jpg){:.circle.shadow width="20" height="20"}
