@@ -25,5 +25,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-![Image](./assets/images/jy.jpg){:.circle.shadow}
+<div class="image image--md" markdown="1">
+  ![Image](./assets/images/jy.jpg){:.circle.shadow}
+</div>
