@@ -49,13 +49,11 @@ key: page-about
 03.2019 ~ 05.2020 : Undergraduate student in
 <a href="http://dnslab.jnu.ac.kr/" target="_blank"> Distributed Networks and Systems Lab</a>, School of Electronics and Computer Engineering, Chonnam National University
 - Task : IoT communication using MQTT, Docker, Data Augmentation using AI
-- Paper : 
+- Paper :     
 	Hyeonji Kim, **Jiyeon Park**, Kyungbaek Kim, 
-<a href="./assets/paper/[2019 KISM fall conf]"Performance Enhancement of CNN based tomato pest classification with GAN.pdf" target="_blank">Performance enhancement of CNN based tomato pest classification with GAN"</a>, In proceedings of 2019 Fall Conference, Korean Institute of Smart Media, Nov 7-8, 2019, Kimdaejung Convention Center, Gwangju.    
+<a href="./assets/paper/[2019 KISM fall conf]Performance Enhancement of CNN based tomato pest classification with GAN.pdf" target="_blank">"Performance enhancement of CNN based tomato pest classification with GAN"</a>, In proceedings of 2019 Fall Conference, Korean Institute of Smart Media, Nov 7-8, 2019, Kimdaejung Convention Center, Gwangju.    
 	**Jiyeon Park**, Hyeonji Kim, Kyungbaek Kim, 
-<a href="./assets/paper/[2020 DCS]"Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification.pdf" target="_blank">Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification"</a>, Journal of Digital Contents Society, 21(5), pp.959-967, May, 2020.
-	  
-<br/>
+<a href="./assets/paper/[2020 DCS]Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification.pdf" target="_blank">"Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification"</a>, Journal of Digital Contents Society, 21(5), pp.959-967, May, 2020.
 
 05.2020 ~ 08.2020 : Undergraduate student in
 <a href="http://cctl.jnu.ac.kr/" target="_blank"> Coding and Intelligent Communications Lab</a>, School of Electronics and Computer Engineering, Chonnam National University    
