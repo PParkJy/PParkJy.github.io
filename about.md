@@ -40,7 +40,7 @@ key: page-about
 ## Education
 08.2020 ~ present : **M.S candidate of ICT Convergence System Engineering, Chonnam National University**, Gwangju, Korea
 <a href="http://myweb.jnu.ac.kr/~hpark1/" target="_blank">  (Advisor: Prof. Hosung Park)</a>    
-02.2017 ~ 08.2020 : B.S in **Computer Information and Communication Engineering, School of Electronics and Computer Engineering, Chonnam National University**, Gwangju, Korea    
+02.2017 ~ 08.2020 : B.S in **Computer Information and Communication Engineering, School of Electronics and Computer Engineering, Chonnam National University**, Gwangju, Korea (Early Graduation)    
 02.2014 ~ 02.2017 : JeongJu High School, Jeongeup, Korea    
 
 <br/>
