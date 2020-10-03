@@ -33,7 +33,7 @@ key: page-about
 **전남대학교 ICT융합시스템공학과 석사과정**    
 (M.S. candidate of ICT Convergence System Engineering, Chonnam National University)    
 언어(Language): **C, C++, Python**   
-연구 분야(Research): **channel coding, deep learning, 5G communications, bioinformatics**
+연구 분야(Research): **channel coding, DL/ML, 5G communications, bioinformatics**
 
 <br/>
 
