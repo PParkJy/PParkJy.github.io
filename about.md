@@ -57,14 +57,14 @@ key: page-about
 <br/>
 
 ## Awards & Publication
-- Awards :    
+- Awards     
 	**"농가에서의 전염병 확산 방지를 위한 실시간 질병 진단 IoT 플랫폼"**, HoneyLab(최승진, 김대호, 김현지, 박지연, 임아연), 2019 NET 챌린지 캠프 한국전자통신연구원장상(은상)    
-- Paper :     
+- Paper      
 	Hyeonji Kim, **Jiyeon Park**, Kyungbaek Kim, 
 <a href="./assets/paper/[2019 KISM fall conf]Performance Enhancement of CNN based tomato pest classification with GAN.pdf" target="_blank">"Performance enhancement of CNN based tomato pest classification with GAN"</a>, In proceedings of 2019 Fall Conference, Korean Institute of Smart Media, Nov 7-8, 2019, Kimdaejung Convention Center, Gwangju.    
 	**Jiyeon Park**, Hyeonji Kim, Kyungbaek Kim, 
 <a href="./assets/paper/[2020 DCS]Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification.pdf" target="_blank">"Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification"</a>, Journal of Digital Contents Society, 21(5), pp.959-967, May, 2020.     
-- Publication :
+- Publication     
 	**컨볼루션신경망 기반 토마토 잎 병해충 분류기** (저작권 등록번호 : C-2020-003846)    
 
 <br/>
