@@ -63,7 +63,8 @@ key: page-about
 	1. Hyeonji Kim, **Jiyeon Park**, Kyungbaek Kim, 
 **"Performance enhancement of CNN based tomato pest classification with GAN"**, In proceedings of 2019 Fall Conference, Korean Institute of Smart Media, Nov 7-8, 2019, Kimdaejung Convention Center, Gwangju.    
 	2. **Jiyeon Park**, Hyeonji Kim, Kyungbaek Kim, 
-<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09347960" target="_blank">**"Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification"**</a>, Journal of Digital Contents Society, 21(5), pp.959-967, May, 2020.     
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09347960" target="_blank">**"Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease Classification"**</a>, Journal of Digital Contents Society, 21(5), pp.959-967, May, 2020.
+  3. **Jiyeon Park**, Hosung Park, "A study on the extraction of soft information in DNA storage systems", In proceedings of 2020 Fall Conference, The Korean Institute of Communications and Information Sciences, Nov 13, 2020.    
 - Publication     
 	1. **컨볼루션신경망 기반 토마토 잎 병해충 분류기**, 저작권 등록 : C-2020-003846.      
   2. 박호성, **박지연**, 김정현, 노혜진, 손세희, **DNA 연성 정보 연산 방법, 이를 위한 DNA 저장 장치 및 이를 위한 프로그램**, 특허출원 : 10-2020-0118384, 20200915.      
